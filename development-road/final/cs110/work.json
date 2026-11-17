@@ -50,8 +50,8 @@
       "meeting": "CS110-2026-11-17",
       "worked": "Worked on connecting my backup work repository to the assignment, spit balling ideas for the game, and figureing out how many points we need to get an A on the final.",
       "next": "Figure out what is need to complete my tasks given from the lead.",
-      "blocker": "",
-      "evidence": ""
+      "blocker": "Ask my teammates and AI if needed.",
+      "evidence": "https://github.com/CjtheSmartin/My-Final-Backup-Repository"
     },
     "requirements": [
       {
@@ -110,7 +110,17 @@
       }
     ],
     "tasks": [],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "Worked on connecting my backup work repository to the assignment, spit balling ideas for the game, and figureing out how many points we need to get an A on the final.",
+        "next": "Figure out what is need to complete my tasks given from the lead.",
+        "blocker": "Ask my teammates and AI if needed.",
+        "evidence": "https://github.com/CjtheSmartin/My-Final-Backup-Repository",
+        "tasks": []
+      }
+    ]
   },
   "team": {
     "name": "Human Systems Check",
